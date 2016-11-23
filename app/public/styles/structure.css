@@ -47,3 +47,14 @@ main {
   border-left: 1px solid darkred;
   padding-left: 25px;
 }
+
+nav {
+  padding: 0px;
+  margin: 0px;
+  padding-right: 25px;
+}
+
+nav ul li {
+  margin-bottom: 15px;
+  text-transform: uppercase;
+}
